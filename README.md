@@ -1,6 +1,6 @@
 # JNatPack
 ### Presentation
-JNatPack is a software written in C# which lets you pack a `.jar` file in a native executable for Windows/MacOS(x86_64&arm64)/Linux.\
+JNatPack is a tool written in C# which lets you pack a `.jar` file in a native executable for Windows/MacOS(x86_64&arm64)/Linux.\
 Even tho it uses c#, the end user **does not need** .NET installed on it's computer, as it generates a self contained executable. (thus containing .NET)
 
 ### How to use
